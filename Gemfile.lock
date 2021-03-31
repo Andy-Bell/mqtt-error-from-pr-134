@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/njh/ruby-mqtt.git
+  revision: 5a406eb0600160a7a888b3e9a285ccf9d2ecceaf
+  specs:
+    mqtt (0.5.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mqtt!
+
+RUBY VERSION
+   ruby 2.7.2p137
+
+BUNDLED WITH
+   2.1.4
